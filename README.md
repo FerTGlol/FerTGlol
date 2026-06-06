@@ -2,7 +2,7 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 HiHi, I'm Fer. I've built data-driven and interactive projects with a focus on machine learning, predictive maintenance, and visualization. I'm a big physics and math nerd who sometimes is encouraged (forced) to dabble with coding, since physics and simulations go hand in hand... Lol
+👋 Hihi, I'm Fer. I'm a big physics and math nerd who sometimes is encouraged (forced) to dabble with coding, since physics and simulations go hand in hand... Lol. I've built data-driven and interactive projects with a focus on machine learning, predictive maintenance, and visualization. 
 
 - 📍 Location: Mexico
 - 🎓 Education: Tec de Mty
@@ -19,6 +19,19 @@
 - ❤️ Interests: STEM in general, learning new things
 - 💻 Code experience: Machine learning, data science, interactive web apps
 - 🛠️ Previous builds: Predictive analytics, electromagnetics, hackathons
+
+## Dog
+```text
+				 __
+ ,.    ," ,`-o     woof!
+(_(   (  | _,'
+ \ `-' `-' (__
+ (         `--.'
+ /)  .__,`--~'
+((  (       
+	`'''
+```
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
