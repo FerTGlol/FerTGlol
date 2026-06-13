@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple, arduino, docker, github, gitlab, latex, matlab, py, r, vscode" />
+    <img src="https://skillicons.dev/icons?i=apple,arduino,docker,github,gitlab,latex,matlab,py,r,vscode" />
   </a>
 </p>
 
