@@ -23,7 +23,7 @@
 - 💻 Code experience: Machine learning, data science, interactive web apps
 - 🛠️ Previous builds: Predictive analytics, electromagnetics, hackathons
 
-## Dog
+## Dog :3
 ```text
 				 __
  ,.    ," ,`-o     woof!
