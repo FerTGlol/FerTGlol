@@ -12,7 +12,7 @@
 - 📅 Hacking Since: 2024
 
 ## Featured Projects
-- 🎲 [cooler-failure-predictor](https://github.com/FerTGlol/cooler-failure-predictor) — A predictive maintenance app that estimates cooler failure risk with feature engineering, XGBoost, and risk-based insights. (Python / Jupyter Notebook)
+- 🎲 [cooler-failure-predictor](https://github.com/FerTGlol/cooler-failure-predictor) — A predictive maintenance app that estimates cooler failure risk with feature engineering, XGBoost, and risk-based insights. (Python / Jupyter Notebook) (Hack4Her 2025 Winner!)
 - 🛠️ [MagneticFieldsShapes](https://github.com/FerTGlol/MagneticFieldsShapes) — A notebook-based project for plotting magnetic fields of different shapes with currents. (Jupyter Notebook)
 - 🤖 [FerTGlol](https://github.com/FerTGlol/FerTGlol) — My profile repository and personal landing page. (Markdown)
 - 🔬 [leuze-diode-data](https://github.com/FerTGlol/leuze-diode-data) — Software, raw experimental data, and final reporting for the laser diode polarization characterization study conducted for Leuze Electronic, investigating deviations from ideal linear polarization states and root causes.
